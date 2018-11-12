@@ -18,7 +18,7 @@ Sample iOS app display the most viewed articles of NY Times
 * VIPER
 
 ### How to use it ###
-To safeguard against the misuse of the api key. We have removed it from code. kindly add correct api key in `NYTimesArticleService`class `kApiKey` to run this application correctly. I have tested with a sample api key which generated at https://developer.nytimes.com/signup
+I have tested with a sample api key which I have generated at https://developer.nytimes.com/signup
 
 ### Programming Approach ###
 * I have followed the protocol orieneted programming(POP) approach and object orieneted programming(OOP) approaches as well. e.g in article interactor created a protocol first in which defined set of rules further implementation class has followed those rules
