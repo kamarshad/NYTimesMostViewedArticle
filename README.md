@@ -33,7 +33,7 @@ I have tested with a sample api key which I have generated at https://developer.
 
 * ArticlePresenter: Responsible for fulfilling the requirement for ArticleViewController
 
-* NYTimesArticle: It is an entity (model class) which just holds the NY times most viewed article information. It is being passed to view to render the article information on UI. 
+* NYTimesArticle: It is an entity, it just holds the NY times most viewed article information. It is being passed to view to display the article information on UI. 
 
 * ArticleInteractor: Responsible for querying the api and providing the most viewed articles. As of now showing 7 days most viewed article. You can change to any reasonable(1|7|30) for info about the NY Times most viewed article api https://developer.nytimes.com/most_popular_api_v2.json
 
